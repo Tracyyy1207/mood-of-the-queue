@@ -19,6 +19,7 @@ A lightweight internal Streamlit tool to:
 git clone https://github.com/your-username/mood-queue-app.git
 cd mood-queue-app
 
+
 ### 2. Opening the app locally with:
 
 streamlit run mood_logger.py
